@@ -11,3 +11,24 @@ catboost_info/
 # Панель и модели воспроизводятся командой run.sh
 data/
 models/
+
+# Инструкции для агентов и рабочий контекст
+AGENTS.md
+CLAUDE.md
+PROJECT_CONTEXT.md
+.agents/
+.claude/
+.codex/
+.cursor/
+.obsidian/
+
+# Материалы курса и прошлые Gate
+*.pdf
+/gate1-*.md
+/gate2-*.md
+/gate3-*.md
+/cross-cutting-cases.md
+/docs/submission-links.md
+
+# Рабочие файлы, не нужные для проверки
+labeling/source_texts.txt
