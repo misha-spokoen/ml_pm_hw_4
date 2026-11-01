@@ -1,0 +1,7 @@
+id,outcome_1,reason_1,manageable_1,action_1,hard_1,outcome_2,reason_2,manageable_2,action_2,hard_2,text
+GEN-072,left,credit_counterparty,no,none,0,left,other,no,none,0,"Получили грант с условием счёта в определённом банке, всё движение теперь там."
+GEN-078,left,credit_counterparty,no,none,1,left,other,no,none,0,"Маркетплейс удобнее выводит деньги в его партнёрский банк, оборот перешёл туда."
+GEN-136,left,price_fixed,yes,lower_tariff,1,left,price_fixed,no,none,0,"Зимой стройка стоит, не вижу смысла платить тариф, ушёл на бесплатный счёт."
+GEN-139,left,other,no,none,0,unknown,other,no,none,0,"Сменил форму с ИП на ООО, для нового юрлица открыл счёт в другом банке."
+GEN-223,left,other,no,none,1,unknown,other,no,none,0,"Прочитал про блокировки в этом банке, решил заранее перейти."
+GEN-232,unknown,price_fixed,yes,lower_tariff,1,stayed,price_fixed,yes,lower_tariff,0,"Сезон закончился, ИП на паузе, счёт оставил, но платить неохота."

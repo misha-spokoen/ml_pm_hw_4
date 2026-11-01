@@ -1,0 +1,278 @@
+id,platform,month,source_type,text,outcome,reason,manageable,action,hard
+GEN-001,forum,2023-01,generated,"Бизнес закрыт, налоговая сняла с учёта, счёт закрыл.",left,forced,no,none,0
+GEN-002,chat,2023-01,generated,"Перестал укладываться в условия бесплатного тарифа, плата стала ежемесячной, счёт закрыл.",left,price_fixed,yes,lower_tariff,0
+GEN-003,forum,2023-01,generated,"Завёл счёт в Банке Б для одного проекта, старый пока работает.",unknown,unknown,na,none,0
+GEN-004,chat,2023-01,generated,"Часть платежей провёл через другой банк, чтобы сравнить.",unknown,unknown,na,none,0
+GEN-005,review,2023-01,generated,"Банк закрыл счёт после запроса по 115‑ФЗ, хотя я отправил все договоры.",left,forced,no,none,0
+GEN-006,forum,2023-01,generated,"Бизнес не выжил, ООО ликвидировано, счёт закрыт.",left,forced,no,none,0
+GEN-007,forum,2023-01,generated,"Кредит дали только при переводе оборотов, поэтому перенёс расчёты в Банк В.",left,credit_counterparty,no,none,0
+GEN-008,review,2023-01,generated,"Держит зарплатный проект, переводить сотрудников слишком сложно, остаюсь несмотря на цену.",stayed,unknown,na,none,1
+GEN-009,review,2023-01,generated,"Переехали в другой банк: ноль за обслуживание и нормальная поддержка, здесь было хуже по всем пунктам.",left,unknown,na,none,1
+GEN-010,forum,2023-01,generated,"Смс с кодами приходят через раз, платить невозможно. Ушёл.",left,service,no,none,0
+GEN-011,forum,2023-01,generated,"Партнёр по франшизе требует работу через определённый банк, ушёл туда.",left,credit_counterparty,no,none,0
+GEN-012,blog,2023-02,generated,"Чат-бот не даёт связаться с человеком, надоело, перешёл в Банк Б.",left,service,no,none,0
+GEN-013,review,2023-02,generated,"Банк отказал в обслуживании, мне пришлось уходить, хотя условия устраивали.",left,forced,no,none,0
+GEN-014,review,2023-02,generated,"Комиссии стали непредсказуемыми: то 29, то 79 рублей за платёж. Перевели деньги в другой банк.",left,price_fee,yes,package,0
+GEN-015,review,2023-02,generated,"Предложил банку годовую предоплату за скидку, отказали, уехал к тем, кто согласился.",left,price_fixed,yes,annual,0
+GEN-016,blog,2023-02,generated,"Закрыл счёт, потому что плата за каждую платёжку оказалась выше, чем у всех вокруг.",left,price_fee,yes,package,0
+GEN-017,chat,2023-02,generated,"Комиссия за вывод на карту ИП выросла вдвое, перевёл все расчёты в другой банк.",left,price_fee,yes,package,0
+GEN-018,forum,2023-02,generated,"Перестали давать бесплатное обслуживание при обороте выше 300 тысяч, закрыли счёт.",left,price_fixed,yes,lower_tariff,0
+GEN-019,review,2023-02,generated,"Не выдали справку для тендера вовремя, из-за этого потеряли контракт. Закрыли счёт.",left,service,no,none,0
+GEN-020,chat,2023-03,generated,"Ужасный банк, никому не советую.",unknown,unknown,na,none,0
+GEN-021,review,2023-03,generated,"Абонентка съедает прибыль, операций три в месяц, ушёл.",left,price_fixed,yes,lower_tariff,0
+GEN-022,forum,2023-03,generated,"Пересел на другой тариф внутри банка, посмотрю, что будет.",unknown,unknown,na,none,0
+GEN-023,forum,2023-04,generated,"Комиссии высокие, поддержка слабая, но решающим стал сбой в день зарплаты. Закрыл счёт.",left,service,no,none,0
+GEN-024,forum,2023-04,generated,Основной контрагент сменил банк и попросил нас открыть счёт там же. Платежи перевели.,left,credit_counterparty,no,none,0
+GEN-025,review,2023-04,generated,"Сделали пакет платежей, но после трёх бесплатных месяцев стал дороже, чем без него. Ушли.",left,price_fee,no,none,1
+GEN-026,chat,2023-04,generated,"Закрыл счёт: и приложение глючит, и комиссии растут.",left,unknown,na,none,0
+GEN-027,chat,2023-04,generated,"Обслуживание бесплатное, а платежи дорогие, в сумме выходит выше рынка. Уехал.",left,price_fee,yes,package,0
+GEN-028,forum,2023-04,generated,"Снятие наличных подорожало, для моего магазина это критично. Теперь работаю через другой банк.",left,price_fee,yes,package,0
+GEN-029,blog,2023-04,generated,"Прошли банкротство, все счета закрыты.",left,forced,no,none,0
+GEN-030,review,2023-04,generated,"Зарплатные выплаты самозанятым обходятся в 1,9% — это грабёж. Сменил банк в тот же месяц.",left,price_fee,yes,package,0
+GEN-031,review,2023-04,generated,"Лизинговая компания потребовала счёт в своём банке, туда ушли все платежи.",left,credit_counterparty,no,none,0
+GEN-032,chat,2023-05,generated,"Закрыл здесь, потому что в другом банке уже есть кредит и зарплата.",left,credit_counterparty,no,none,1
+GEN-033,review,2023-05,generated,"Продали бизнес, ООО прекратило деятельность, поэтому закрыли счёт.",left,forced,no,none,0
+GEN-034,chat,2023-05,generated,Банк приравнял мой перевод к снятию наличных и взял 2%. После этого вывел все деньги и закрыл расчётный счёт.,left,price_fee,yes,package,0
+GEN-035,review,2023-05,generated,Скидка уже не поможет: доверие потеряно после того списания. Счёт закрыт.,left,price_fee,no,none,0
+GEN-036,forum,2023-05,generated,"Очередное повышение тарифа, кажется, пора искать альтернативу.",unknown,price_fixed,yes,lower_tariff,0
+GEN-037,review,2023-06,generated,"Дела идут плохо, закрываюсь наверное.",unknown,forced,no,none,1
+GEN-038,forum,2023-06,generated,Банк-кредитор поставил условие: 80% оборота у него. Перенёс платежи.,left,credit_counterparty,no,none,0
+GEN-039,forum,2023-06,generated,"Банк перестал обслуживать мой вид деятельности, пришлось уйти.",left,forced,no,none,0
+GEN-040,blog,2023-07,generated,Сменил банк из-за абонентки: 1990 рублей за почти пустой счёт.,left,price_fixed,yes,lower_tariff,0
+GEN-041,chat,2023-07,generated,"Я считаю каждую копейку, а тут 99 рублей плюс процент на каждый перевод. Перешёл к другому банку.",left,price_fee,yes,package,0
+GEN-042,forum,2023-07,generated,"Сравнил с Банком Б, разницы почти нет, менять ничего не буду.",stayed,unknown,na,none,0
+GEN-043,review,2023-07,generated,"За полгода сменилось четыре менеджера, никто не знает мой бизнес. Перешёл к другому банку.",left,service,no,none,0
+GEN-044,review,2023-07,generated,"Реорганизация: две фирмы слились, оставили один счёт в другом банке.",left,other,no,none,0
+GEN-045,chat,2023-07,generated,"Приложение падало в день уплаты налогов, из-за этого словил пени. Ушёл в другой банк.",left,service,no,none,0
+GEN-046,forum,2023-08,generated,"Сменили банк из-за платы за выдачу наличных, сеть магазинов без неё не живёт.",left,price_fee,yes,package,0
+GEN-047,review,2023-08,generated,"Рассматривал уход из-за блокировки, но ограничение сняли за день, работаю дальше.",stayed,forced,no,none,0
+GEN-048,forum,2023-08,generated,"Выиграли госконтракт, для него нужен счёт в уполномоченном банке, все деньги теперь идут там.",left,credit_counterparty,no,none,0
+GEN-049,review,2023-08,generated,"Сбой на два дня, клиенты не могли оплатить. Перевёл всё в другой банк.",left,service,no,none,0
+GEN-050,blog,2023-09,generated,"Ушёл к конкуренту, потому что он дешевле и там кредит на условиях лучше.",left,unknown,na,none,1
+GEN-051,forum,2023-09,generated,"Эквайринг нам навязал арендодатель торгового центра, а вместе с ним пришлось перенести расчёты.",left,credit_counterparty,no,none,0
+GEN-052,review,2023-09,generated,"В старом банке оставил только налоги, остальное перевёл: там поддержка отвечает.",left,service,no,none,0
+GEN-053,review,2023-09,generated,"Банк попросил объяснить переводы самому себе, ответил, но решил больше не связываться. Закрыл счёт.",left,service,no,none,1
+GEN-054,chat,2023-09,generated,"Плата выросла, зато поддержка отличная, поэтому не ухожу.",stayed,price_fixed,yes,lower_tariff,1
+GEN-055,review,2023-10,generated,"Плохая поддержка, плохая цена. Ушёл.",left,unknown,na,none,0
+GEN-056,forum,2023-10,generated,"Закрыл счёт из-за комиссии за закрытие счёта, абсурд.",left,price_fee,no,none,1
+GEN-057,review,2023-10,generated,"Закрытие ИП из-за переезда за границу, предпринимательство прекращаю, счёт закрыт.",left,forced,no,none,0
+GEN-058,forum,2023-10,generated,"Предложили тариф ниже, и я передумал закрывать счёт.",stayed,price_fixed,yes,lower_tariff,0
+GEN-059,review,2023-11,generated,"Мобильное приложение перестало работать на моём телефоне, поддержка разводит руками, сменил банк.",left,service,no,none,0
+GEN-060,forum,2023-11,generated,"Пока бизнес маленький, платить 4990 в месяц глупо. Закрылся и открылся там, где ноль.",left,price_fixed,yes,lower_tariff,1
+GEN-061,review,2023-12,generated,"Мне навязали пакет, в итоге платил больше, закрыл счёт.",left,price_fee,no,none,1
+GEN-062,blog,2023-12,generated,Ипотека на склад оформлена с требованием вести расчёты в банке-кредиторе. Закрыл старый счёт.,left,credit_counterparty,no,none,0
+GEN-063,forum,2023-12,generated,"Оборот уже давно идёт через другой банк по условию поставщика, здесь только мелочь.",left,credit_counterparty,no,none,0
+GEN-064,forum,2023-12,generated,"Главный заказчик платит только через свой банк, пришлось перевести основной поток туда.",left,credit_counterparty,no,none,0
+GEN-065,chat,2023-12,generated,"Заказчик намекнул на счёт в его банке, пока не решил.",unknown,credit_counterparty,no,none,0
+GEN-066,forum,2023-12,generated,"Зимой оборот упал в пять раз, как обычно у строителей.",unknown,other,no,none,0
+GEN-067,chat,2024-01,generated,"Бухгалтер на аутсорсе обслуживает только клиентов другого банка, мы переехали.",left,other,no,none,0
+GEN-068,review,2024-01,generated,"Закончили проект, юрлицо ликвидировали по плану, счёт закрыт.",left,forced,no,none,0
+GEN-069,review,2024-01,generated,"Ушёл из-за всего сразу: цена, сервис, отношение.",left,unknown,na,none,0
+GEN-070,review,2024-01,generated,"Сначала разозлился на списание, затем разобрался, всё было по договору. Счёт не закрываю.",stayed,price_fee,yes,package,1
+GEN-071,forum,2024-01,generated,"Интеграция с бухгалтерией постоянно отваливается, ушли к банку, где она работает.",left,service,no,none,0
+GEN-072,chat,2024-02,generated,"Получили грант с условием счёта в определённом банке, всё движение теперь там.",left,credit_counterparty,no,none,0
+GEN-073,forum,2024-02,generated,"Банк заблокировал операции и запросил документы, через месяц закрыл счёт сам.",left,forced,no,none,0
+GEN-074,forum,2024-02,generated,"Банк списал за обслуживание платежа в выходной день, такой мелочи хватило, чтобы унести обороты.",left,price_fee,yes,package,0
+GEN-075,forum,2024-02,generated,"Постоянно просят подтвердить одно и то же, процесс занимает часы. Ушёл, цена устраивала.",left,service,no,none,0
+GEN-076,forum,2024-02,generated,"Поддержка снова молчит, начинаю смотреть других.",unknown,service,no,none,0
+GEN-077,review,2024-02,generated,"Закрыл ИП, деятельность прекращена, счёт больше не нужен.",left,forced,no,none,0
+GEN-078,chat,2024-02,generated,"Маркетплейс удобнее выводит деньги в его партнёрский банк, оборот перешёл туда.",left,credit_counterparty,no,none,1
+GEN-079,chat,2024-03,generated,"Компанию ликвидировали после ухода главного заказчика, счёт закрыт вместе с ней.",left,forced,no,none,0
+GEN-080,forum,2024-03,generated,"Заблокировали перевод, жду ответа банка.",unknown,forced,no,none,1
+GEN-081,forum,2024-03,generated,"Закрылись из-за долгов перед банком, счёт закрыт вместе с кредитом.",left,forced,no,none,0
+GEN-082,blog,2024-03,generated,"Закрыл счёт, когда пришло письмо о новой цене обслуживания.",left,price_fixed,yes,lower_tariff,0
+GEN-083,forum,2024-03,generated,"Банк Б подарил рекламу и кэшбэк за переход, мне понравилось, перешёл.",left,other,no,none,0
+GEN-084,forum,2024-03,generated,Ликвидировал ООО: заказов нет почти год.,left,forced,no,none,0
+GEN-085,review,2024-03,generated,"Банки все одинаковые, деньги за воздух берут.",unknown,unknown,na,none,0
+GEN-086,review,2024-03,generated,"Похоже, скоро закрою фирму. Если заказов не будет, счёт не нужен.",unknown,forced,no,none,0
+GEN-087,chat,2024-03,generated,"Перевожу часть расчётов к партнёру, полный переход пока не решён.",unknown,unknown,na,none,0
+GEN-088,forum,2024-03,generated,"Плату за тариф подняли, и мы договорились о скидке за оплату на год вперёд.",stayed,price_fixed,yes,annual,0
+GEN-089,blog,2024-03,generated,"Переехал в другой регион, там у банка нет отделений для инкассации. Счёт закрыл.",left,other,no,none,0
+GEN-090,forum,2024-03,generated,"Перешёл в банк дороже, зато платежи проходят мгновенно.",left,service,no,none,0
+GEN-091,review,2024-04,generated,"Обслуживание счёта подорожало, а пользуюсь только входящими платежами. Закрыл.",left,price_fixed,yes,lower_tariff,0
+GEN-092,chat,2024-04,generated,"После повышения комиссии на исходящие платежи у меня съехала вся экономика проекта, счёт закрыт в марте.",left,price_fee,yes,package,0
+GEN-093,forum,2024-04,generated,"Комиссии высокие, но все сервисы в одном месте. Никуда не ухожу.",stayed,price_fee,yes,package,0
+GEN-094,review,2024-04,generated,"Если не вернут списание, уйду.",unknown,price_fee,yes,package,0
+GEN-095,blog,2024-04,generated,"Выписки приходят с ошибками, бухгалтер на грани. Закрыли счёт.",left,service,no,none,0
+GEN-096,review,2024-04,generated,"Комиссия за перевод возмутила, но вернуться не смогу: уже всё перевёл, поздно предлагать.",left,price_fee,no,none,0
+GEN-097,blog,2024-04,generated,"Цена тарифа неподъёмна для микробизнеса, я уехал к банку подешевле.",left,price_fixed,yes,lower_tariff,0
+GEN-098,forum,2024-05,generated,"Цена тарифа вдвое выше, чем у конкурента, и ничего дополнительного я не использую. Ушёл.",left,price_fixed,yes,lower_tariff,0
+GEN-099,forum,2024-05,generated,Вышел из Банка А из-за комиссий на валютные операции: за квартал набежало больше 40 тысяч.,left,price_fee,yes,package,0
+GEN-100,chat,2024-05,generated,"Обслуживание стало дороже аренды склада в пересчёте на операцию, поэтому расчёты переехали.",left,price_fixed,yes,lower_tariff,1
+GEN-101,blog,2024-05,generated,"Счёт закрыл, но через месяц открыл снова: у других ещё хуже.",stayed,unknown,na,none,1
+GEN-102,forum,2024-05,generated,"Разделили бизнес между партнёрами, моя часть теперь в другом банке.",left,other,no,none,0
+GEN-103,chat,2024-05,generated,"Держал два счёта, оставил дешёвый.",left,unknown,na,none,1
+GEN-104,blog,2024-05,generated,Плата за обслуживание выросла на треть за год. Теперь я в Банке Б.,left,price_fixed,yes,lower_tariff,0
+GEN-105,forum,2024-05,generated,"Третий месяц не плачу за тариф, банк копит долг, что дальше не знаю.",unknown,price_fixed,yes,lower_tariff,1
+GEN-106,forum,2024-06,generated,"Поменяли лимит бесплатных переводов с 50 до 20 тысяч, комиссии выросли, поэтому ушёл.",left,price_fee,yes,package,0
+GEN-107,chat,2024-06,generated,"Банк потребовал подтверждение операций, документов не хватило, обслуживание прекратили.",left,forced,no,none,0
+GEN-108,review,2024-06,generated,"Менеджер трижды терял мои документы, терпение лопнуло, счёт закрыт.",left,service,no,none,0
+GEN-109,review,2024-06,generated,"Ушёл из-за комиссии, но потом банк вернул деньги и предложил пакет, вернулся.",stayed,price_fee,yes,package,0
+GEN-110,review,2024-06,generated,"Перешёл на бесплатный тариф конкурента, здесь готов был остаться только за ноль рублей.",left,price_fixed,no,none,0
+GEN-111,blog,2024-06,generated,"Вынужденно закрылись после пожара на производстве, счёт больше не нужен.",left,forced,no,none,0
+GEN-112,review,2024-06,generated,"Тариф подорожал, в поддержке хамят, ушёл в Банк В.",left,unknown,na,none,0
+GEN-113,review,2024-07,generated,"Два бесплатных месяца кончились, и сразу списали почти две тысячи. Я столько не зарабатываю в тихий месяц, поэтому ушёл.",left,price_fixed,yes,lower_tariff,0
+GEN-114,review,2024-07,generated,"Для тендера нужна банковская гарантия, её дал только Банк В, там теперь основной счёт.",left,credit_counterparty,no,none,0
+GEN-115,forum,2024-07,generated,"Банк отказал в кредите, поэтому ушёл туда, где дали.",left,credit_counterparty,no,none,0
+GEN-116,chat,2024-07,generated,"Подал заявку на счёт в другом банке, пока думаю, что перевести.",unknown,unknown,na,none,0
+GEN-117,review,2024-07,generated,"После жалобы вернули лишнюю комиссию, счёт оставил.",stayed,price_fee,yes,package,0
+GEN-118,chat,2024-07,generated,"Поддержка не отвечала трое суток, зарплата сотрудникам зависла. Закрыл счёт.",left,service,no,none,0
+GEN-119,review,2024-07,generated,"Из двух банков оставил тот, где нет абонентки.",left,price_fixed,yes,lower_tariff,0
+GEN-120,review,2024-07,generated,"Переплачивал за платежи контрагентам, пока бухгалтер не посчитал. Перевели расчёты в Банк В.",left,price_fee,yes,package,0
+GEN-121,blog,2024-07,generated,"Заморозили деньги, запросили документы, а потом разорвали договор со мной.",left,forced,no,none,0
+GEN-122,review,2024-07,generated,"С меня списали 1,5% за перевод подрядчику, хотя менеджер обещал бесплатно. Закрыл счёт в Банке А и ушёл в Банк Б.",left,price_fee,yes,package,0
+GEN-123,forum,2024-07,generated,"Закрыл счёт в начале года, когда пересмотрел все расходы бизнеса.",left,unknown,na,none,1
+GEN-124,forum,2024-07,generated,"Туристический сезон кончился, закрыл счёт до весны, потом открою снова.",left,other,no,none,1
+GEN-125,forum,2024-08,generated,"Закрыл ИП, потому что перешёл в найм.",left,forced,no,none,0
+GEN-126,chat,2024-08,generated,Плату за тариф списывают и в месяцы без оборотов. За это закрыл счёт.,left,price_fixed,yes,lower_tariff,0
+GEN-127,forum,2024-08,generated,"В этом месяце почти нет операций, туристов нет до мая.",unknown,other,no,none,0
+GEN-128,chat,2024-08,generated,"За три месяца на переводах физлицам потерял больше, чем стоит годовой бухгалтер. Больше через Банк В не плачу, счёт закрыт.",left,price_fee,yes,package,0
+GEN-129,review,2024-08,generated,Устал от постоянных изменений условий.,unknown,unknown,na,none,0
+GEN-130,forum,2024-08,generated,"Прекратил деятельность из-за долгов, расчётный счёт закрыт.",left,forced,no,none,0
+GEN-131,forum,2024-09,generated,"Банк закрыл счёт за нарушение своих внутренних правил, разбираться не стали.",left,forced,no,none,0
+GEN-132,forum,2024-09,generated,"Хотелось держать деньги у банка с высоким рейтингом, поэтому перевели оборот.",left,other,no,none,0
+GEN-133,blog,2024-09,generated,"Сервис средний, цена средняя, ничего особенного.",unknown,unknown,na,none,0
+GEN-134,review,2024-09,generated,"Счёт закрыл, потому что нашёл банк с кэшбэком на налоги.",left,other,no,none,1
+GEN-135,forum,2024-09,generated,"Счёт для меня удобный, кредитная линия здесь же, оставляю.",stayed,unknown,na,none,0
+GEN-136,review,2024-10,generated,"Зимой стройка стоит, не вижу смысла платить тариф, ушёл на бесплатный счёт.",left,price_fixed,yes,lower_tariff,1
+GEN-137,review,2024-10,generated,"Ушёл, потому что банк отказался работать с моей отраслью.",left,forced,no,none,0
+GEN-138,review,2024-10,generated,"За платежи поставщикам в месяц уходило 12 тысяч. Новый банк просит 2 тысячи за пакет, переход очевиден.",left,price_fee,yes,package,0
+GEN-139,forum,2024-11,generated,"Сменил форму с ИП на ООО, для нового юрлица открыл счёт в другом банке.",left,other,no,none,0
+GEN-140,review,2024-11,generated,"Счёт арестовали приставы, потом сняли, после этого закрыл.",left,forced,no,none,1
+GEN-141,blog,2024-11,generated,"Договор расторгнут банком после блокировки, деньги вернули через месяц.",left,forced,no,none,0
+GEN-142,blog,2024-11,generated,Друг работает в другом банке и уговорил перейти.,left,other,no,none,0
+GEN-143,forum,2024-11,generated,"Собирался уходить из-за платы за счёт, банк дал три месяца бесплатно, остался.",stayed,price_fixed,yes,lower_tariff,0
+GEN-144,forum,2024-11,generated,"Поставщик даёт отсрочку только клиентам своего банка, открыл там счёт и перевёл расчёты.",left,credit_counterparty,no,none,0
+GEN-145,blog,2024-11,generated,"Банк дал лизинг только с переводом оборотов, это и решило вопрос.",left,credit_counterparty,no,none,0
+GEN-146,forum,2024-11,generated,"Бесплатный тариф был хорошим, но его отменили. Ушёл к конкуренту с бесплатным.",left,price_fixed,yes,lower_tariff,1
+GEN-147,forum,2024-11,generated,"Нашёл в выписке комиссии, про которые никто не рассказывал, сразу сменил банк.",left,price_fee,yes,package,0
+GEN-148,blog,2024-11,generated,"Деньги списали дважды, вернули через месяц, ушёл.",left,service,no,none,1
+GEN-149,blog,2024-11,generated,"Ушёл с платного тарифа на бесплатный внутри банка, оборот на месте.",stayed,price_fixed,yes,lower_tariff,0
+GEN-150,blog,2024-12,generated,"Я ИП на патенте, операций мало, абонентка важнее всего. Поменял банк на тот, где обслуживание дешевле.",left,price_fixed,yes,lower_tariff,0
+GEN-151,review,2024-12,generated,"Банк предложил пакет, расчёт экономии оказался неверным, из-за этого ушёл.",left,service,no,none,1
+GEN-152,forum,2024-12,generated,"Застройщик платит подрядчикам только через счёт в своём банке, поэтому перенесли туда весь объём.",left,credit_counterparty,no,none,0
+GEN-153,forum,2024-12,generated,Бесплатный период закончился без предупреждения. Закрыл счёт сразу после первого списания.,left,price_fixed,yes,lower_tariff,0
+GEN-154,forum,2024-12,generated,Перевод на более дорогой тариф под видом выгоды стал поводом уйти.,left,price_fixed,yes,lower_tariff,1
+GEN-155,blog,2024-12,generated,"Комиссии выросли, и партнёр настоял на другом банке. Перевели расчёты.",left,unknown,na,none,0
+GEN-156,review,2024-12,generated,"Готов платить за год сразу, если будет скидка, иначе ухожу. Скидку не дали, ушёл.",left,price_fixed,yes,annual,0
+GEN-157,review,2024-12,generated,"Заплатил штраф за просрочку налога из-за их сбоя, бросил банк.",left,service,no,none,0
+GEN-158,review,2025-01,generated,"Овердрафт дают только при обороте у них, перевёл деньги, потому что нужна ликвидность.",left,credit_counterparty,no,none,0
+GEN-159,chat,2025-01,generated,"Счёт закрыл после блокировки, хотя и раньше думал уйти из-за цены.",left,forced,no,none,0
+GEN-160,forum,2025-01,generated,"Зимой оборотов почти нет, но летом всё возвращается. Счёт оставляю.",stayed,unknown,na,none,0
+GEN-161,forum,2025-01,generated,"Кредит оформил в другом банке, счёт тут пока работает.",unknown,credit_counterparty,no,none,0
+GEN-162,blog,2025-01,generated,Банк поднял тариф без причин. Ушёл из принципа и за экономией.,left,price_fixed,yes,lower_tariff,0
+GEN-163,forum,2025-01,generated,"Хотел уйти из-за абонентки, но предложили годовую оплату со скидкой. Остаюсь.",stayed,price_fixed,yes,annual,0
+GEN-164,chat,2025-02,generated,"Перешли на тариф подешевле у того же банка, чтобы не закрывать счёт.",stayed,price_fixed,yes,lower_tariff,0
+GEN-165,blog,2025-02,generated,"ООО исключили из реестра, расчётный счёт закрылся.",left,forced,no,none,0
+GEN-166,forum,2025-02,generated,"Пришло списание 8 тысяч за срочный платёж, о котором никто не предупредил. На следующий день открыл счёт у конкурента и перенёс оборот.",left,price_fee,yes,package,0
+GEN-167,chat,2025-02,generated,"Обещал закрыть счёт, но взял пакет платежей и теперь плачу меньше.",stayed,price_fee,yes,package,0
+GEN-168,review,2025-03,generated,"Комиссия за внешний платёж съедала маржу на мелких заказах, перенёс расчёты, старый счёт пустой.",left,price_fee,yes,package,0
+GEN-169,forum,2025-03,generated,"Цены растут, надо бы посчитать, сколько я переплачиваю.",unknown,unknown,na,none,0
+GEN-170,chat,2025-03,generated,"Сломалась выгрузка в 1С, неделю всё вручную, перешёл в другой банк, хотя комиссии там выше.",left,service,no,none,0
+GEN-171,chat,2025-03,generated,"Открыл счёт в другом банке и потихоньку перевёл туда почти весь оборот из-за комиссий, старый пока не закрывал.",left,price_fee,yes,package,0
+GEN-172,chat,2025-03,generated,"Перешёл, так как кредитный комитет требовал обороты на счёте у них.",left,credit_counterparty,no,none,0
+GEN-173,review,2025-03,generated,"Закрыл счёт в связи с окончанием проекта, новых пока нет.",left,other,no,none,1
+GEN-174,chat,2025-04,generated,"Менеджер пересчитал тариф, и я сэкономил 800 рублей в месяц. Отменил закрытие.",stayed,price_fixed,yes,lower_tariff,0
+GEN-175,forum,2025-04,generated,"Каждый месяц по 30 платежей контрагентам, и каждый стоит 59 рублей. Сравнил с Банком Б, разница 1500 рублей, уехал туда.",left,price_fee,yes,package,0
+GEN-176,forum,2025-04,generated,"Счёт остался, но денег там давно нет, работаю через другой банк из-за требований кредитора.",left,credit_counterparty,no,none,0
+GEN-177,forum,2025-04,generated,После конца промо обслуживание оказалось 2490 в месяц. Закрыл счёт на следующий день.,left,price_fixed,yes,lower_tariff,0
+GEN-178,review,2025-04,generated,"Не смогли исправить ошибочный платёж за неделю, счёт закрыт.",left,service,no,none,0
+GEN-179,review,2025-04,generated,"Для ИП без сотрудников этот банк избыточен, перешёл на простой продукт конкурента.",left,other,no,none,1
+GEN-180,blog,2025-04,generated,"Кредит на оборотку получил в другом банке, вместе с ним ушли платежи.",left,credit_counterparty,no,none,0
+GEN-181,review,2025-04,generated,"Весь год платил за неиспользуемый тариф, в итоге закрыл счёт и взял дешёвый у другого банка.",left,price_fixed,yes,lower_tariff,0
+GEN-182,review,2025-05,generated,"Цена владения счётом выше всех в списке сравнения, сменили банк.",left,unknown,na,none,1
+GEN-183,forum,2025-05,generated,"Ушли потому, что холдинг объединил казначейство в одном банке.",left,other,no,none,0
+GEN-184,forum,2025-05,generated,Решили разделить риски и перенесли основной оборот в другой банк.,left,other,no,none,0
+GEN-185,chat,2025-05,generated,"На зиму приостановил ИП, счёт закрыл, чтобы не платить за него.",left,price_fixed,yes,lower_tariff,1
+GEN-186,chat,2025-05,generated,"Открыл второй счёт в другом банке, посмотрю, как там.",unknown,unknown,na,none,0
+GEN-187,forum,2025-05,generated,Смотрю предложения других банков на следующий год.,unknown,unknown,na,none,0
+GEN-188,review,2025-05,generated,"Обороты сезонные, плата устраивает. Счёт остаётся основным.",stayed,unknown,na,none,0
+GEN-189,review,2025-05,generated,"Больше года платил за платёжки без пакета, потому что менеджер не предложил. Теперь расчёты в другом банке.",left,price_fee,yes,package,0
+GEN-190,chat,2025-05,generated,"Банк сам написал перед списанием и предложил годовой тариф, согласился и остался.",stayed,price_fixed,yes,annual,0
+GEN-191,review,2025-06,generated,"Кафе не пережило повышения аренды, ИП закрыто, счёт тоже.",left,forced,no,none,0
+GEN-192,forum,2025-06,generated,"У нас всего 12 платежей в месяц, и на них нужен дорогой тариф. Перешли на дешёвый у конкурента.",left,price_fixed,yes,lower_tariff,0
+GEN-193,review,2025-06,generated,"Налоговая приостановила операции по счёту, позже я закрыл ИП.",left,forced,no,none,0
+GEN-194,blog,2025-06,generated,"Пробовал работать с другим банком месяц, вернулся обратно.",stayed,unknown,na,none,0
+GEN-195,forum,2025-06,generated,"Бизнес сезонный, зимой перевожу всё на накопительный счёт в другом банке, а летом возвращаю.",unknown,other,no,none,0
+GEN-196,review,2025-07,generated,"Перешли к конкуренту: там первые 100 платежей бесплатно, а здесь мы платили за каждый.",left,price_fee,yes,package,0
+GEN-197,review,2025-07,generated,"Онлайн-банк недоступен каждый вечер на обслуживание, а работаем мы вечером. Счёт закрыт.",left,service,no,none,0
+GEN-198,blog,2025-07,generated,"Платежи стали проходить только на следующий день, для поставщиков это неприемлемо. Перенёс оборот.",left,service,no,none,0
+GEN-199,forum,2025-07,generated,"Обращение висело месяц, ответа не дождался. Закрыл счёт.",left,service,no,none,0
+GEN-200,forum,2025-07,generated,"Заблокировали счёт по 115‑ФЗ, вернули остаток и расторгли договор.",left,forced,no,none,0
+GEN-201,forum,2025-08,generated,"Банк Б дороже на 500 рублей, зато менеджер отвечает, поэтому мы там.",left,service,no,none,0
+GEN-202,chat,2025-08,generated,"Цена больше не вопрос, ушёл после ошибочного списания комиссии и хамского ответа.",left,service,no,none,0
+GEN-203,review,2025-08,generated,"Эквайринг подняли с 1,6 до 2,3%, основной оборот проходил через него. Перевёл бизнес в другой банк.",left,price_fee,yes,package,0
+GEN-204,blog,2025-08,generated,"Оборот упал после Нового года, у нас всегда так.",unknown,other,no,none,0
+GEN-205,chat,2025-08,generated,"Перестал получать кэшбэк, смысл держать счёт исчез, закрыл.",left,other,no,none,0
+GEN-206,review,2025-08,generated,"Зарабатываю меньше, плату за счёт пока тяну.",unknown,price_fixed,yes,lower_tariff,0
+GEN-207,review,2025-08,generated,"Формально счёт не закрыт, но 90% платежей уже в Банке Б, там абонентка ниже.",left,price_fixed,yes,lower_tariff,0
+GEN-208,forum,2025-09,generated,"Ушёл на пенсию и закрыл ИП, счёт больше не нужен.",left,forced,no,none,0
+GEN-209,review,2025-09,generated,"Пакет платежей у них закончился, а доплата за каждый лишний оказалась огромной. Счёт закрыл.",left,price_fee,yes,package,0
+GEN-210,blog,2025-09,generated,"Поругался с банком, но остался: менеджер снизил комиссию на переводы.",stayed,price_fee,yes,package,0
+GEN-211,review,2025-09,generated,"Опять просят документы, что-то странное.",unknown,unknown,na,none,0
+GEN-212,forum,2025-09,generated,"Закрывал счёт, в последний момент отговорила бухгалтер, решили остаться.",stayed,unknown,na,none,0
+GEN-213,chat,2025-10,generated,"Партнёр по бизнесу решил вести всё у знакомого в другом банке, я согласился.",left,other,no,none,0
+GEN-214,forum,2025-10,generated,"Лизинг на технику потянул за собой перенос счёта, цена обслуживания тут ни при чём.",left,credit_counterparty,no,none,0
+GEN-215,chat,2025-10,generated,"Хотели перевести оборот, но считать переход дольше, чем терпеть комиссию. Остались.",stayed,price_fee,yes,package,0
+GEN-216,blog,2025-10,generated,"Скидку за годовую оплату убрали, платить помесячно дороже, потому перешёл.",left,price_fixed,yes,annual,0
+GEN-217,forum,2025-10,generated,"Тариф 1990 за счёт, которым пользуюсь раз в неделю, слишком дорого. Перешёл на бесплатный тариф в другом банке.",left,price_fixed,yes,lower_tariff,0
+GEN-218,forum,2025-10,generated,"Уход простой: комиссия на вывод прибыли ИП 3%, у соседнего банка ноль.",left,price_fee,yes,package,1
+GEN-219,chat,2025-10,generated,"Рассылка с предложениями каждый день надоела, закрыл счёт.",left,service,no,none,0
+GEN-220,blog,2025-10,generated,Банк в одностороннем порядке отказался от обслуживания без объяснения причин.,left,forced,no,none,0
+GEN-221,forum,2025-11,generated,Счёт сменили по требованию инвестора: он работает только с одним банком.,left,credit_counterparty,no,none,0
+GEN-222,review,2025-11,generated,"Хочу закрыть счёт, но не понимаю, как забрать остаток.",unknown,unknown,na,none,0
+GEN-223,review,2025-11,generated,"Прочитал про блокировки в этом банке, решил заранее перейти.",left,other,no,none,1
+GEN-224,review,2025-11,generated,"Сменили собственника, новый владелец работает со своим банком.",left,other,no,none,0
+GEN-225,chat,2025-11,generated,"Платим стабильно, денег хватает, но тариф помесячно дороже конкурента. Перешли туда на годовую оплату.",left,price_fixed,yes,annual,0
+GEN-226,chat,2025-11,generated,"Интерфейс обновили, теперь нужной кнопки не найти, а поддержка молчит. Сменил банк.",left,service,no,none,0
+GEN-227,blog,2025-11,generated,"Банк ввёл плату за переводы физлицам сверх пяти штук. У меня их сорок, поэтому весь оборот уехал.",left,price_fee,yes,package,0
+GEN-228,chat,2025-11,generated,"Банк работает со мной как с крупным клиентом, а у меня микробизнес, условия не подходят, ушёл.",left,unknown,na,none,1
+GEN-229,forum,2025-11,generated,"Плату за ведение счёта подняли, а оборот сезонный. Держать там деньги перестал, всё перевёл.",left,price_fixed,yes,lower_tariff,0
+GEN-230,forum,2025-11,generated,"Обороты просели, клиентов меньше, не знаю, что дальше.",unknown,unknown,na,none,0
+GEN-231,review,2025-12,generated,"Оставил один банк, где уже зарплатный проект, второй закрыл.",left,other,no,none,1
+GEN-232,forum,2025-12,generated,"Сезон закончился, ИП на паузе, счёт оставил, но платить неохота.",unknown,price_fixed,yes,lower_tariff,1
+GEN-233,review,2025-12,generated,"Был сбой, но поддержка быстро всё решила. Остаюсь клиентом.",stayed,service,no,none,0
+GEN-234,chat,2025-12,generated,"Устал от запросов документов каждый месяц, ушёл сам, блокировки не было.",left,service,no,none,0
+GEN-235,review,2026-01,generated,"Хамство сотрудника на звонке стало последней каплей, закрылся.",left,service,no,none,0
+GEN-236,chat,2026-01,generated,Посчитали полную стоимость за год: 86 тысяч против 31 тысячи у другого банка. Перешли.,left,unknown,na,none,1
+GEN-237,forum,2026-01,generated,"Банк Б дал кредитную линию с условием оборотов, старый счёт опустел.",left,credit_counterparty,no,none,0
+GEN-238,forum,2026-01,generated,"Менеджер обещал перезвонить неделю назад, не перезвонил. Ухожу.",unknown,service,no,none,1
+GEN-239,chat,2026-01,generated,"У Банка Б обслуживание за ноль, никакая скидка меня не вернёт. Закрыл счёт.",left,price_fixed,no,none,0
+GEN-240,forum,2026-01,generated,"Приостановили операции, потом банк уведомил о расторжении договора.",left,forced,no,none,0
+GEN-241,forum,2026-01,generated,"Абонентская плата выросла до 2490, а операций у меня от силы десять в месяц. Закрыл счёт.",left,price_fixed,yes,lower_tariff,0
+GEN-242,blog,2026-01,generated,"Плата выросла, это я ещё терпел, а вот хамство менеджера не простил. Ушёл.",left,service,no,none,0
+GEN-243,chat,2026-02,generated,"Перестал работать из-за здоровья, закрыл ИП, счёт закрыт.",left,forced,no,none,0
+GEN-244,forum,2026-02,generated,"Написал заявление на закрытие, потом отозвал: менеджер снизил абонентку.",stayed,price_fixed,yes,lower_tariff,0
+GEN-245,blog,2026-02,generated,"Мне предлагали перейти к конкуренту, но я здесь пять лет и доволен.",stayed,unknown,na,none,0
+GEN-246,blog,2026-02,generated,"Экономлю на всём, отказался от лишнего счёта, оставил только один в другом банке.",left,unknown,na,none,0
+GEN-247,review,2026-02,generated,"Подумал о смене банка, но бухгалтерия и эквайринг у них, остаюсь.",stayed,unknown,na,none,0
+GEN-248,review,2026-02,generated,Плата за СБП-переводы контрагентам добила: закрылся и ушёл.,left,price_fee,yes,package,0
+GEN-249,chat,2026-02,generated,"Пользуюсь счётом только для налогов, остальное в другом банке давно.",left,unknown,na,none,0
+GEN-250,blog,2026-02,generated,"Счёт закрыли по решению банка из-за подозрительных операций, поддержка ничего не объяснила.",left,forced,no,none,0
+GEN-251,blog,2026-02,generated,"Получил пять звонков за неделю с предложением продуктов, отключиться нельзя, сменил банк.",left,service,no,none,0
+GEN-252,chat,2026-02,generated,"Деньги между своими счетами идут сутки, такой скорости нам мало, расчёты перенесены.",left,service,no,none,0
+GEN-253,forum,2026-03,generated,"Переводы в другие банки стали дорогими, перевёл основной поток в банк, где пакет платежей дешевле.",left,price_fee,yes,package,0
+GEN-254,forum,2026-03,generated,"После проверки банк ограничил онлайн-доступ, а потом закрыл счёт по своей инициативе.",left,forced,no,none,0
+GEN-255,forum,2026-03,generated,"Перешёл к банку, где лучше проценты на остаток.",left,other,no,none,0
+GEN-256,review,2026-04,generated,Менеджер подобрал пакет под мои платежи. Сэкономил и остался.,stayed,price_fee,yes,package,0
+GEN-257,chat,2026-04,generated,"Заказчик ввёл номинальные счета в одном банке, обороты ушли туда.",left,credit_counterparty,no,none,0
+GEN-258,forum,2026-04,generated,"Отменили бесплатные платежи в бюджет, для меня это главная операция, расчёты перенесены.",left,price_fee,yes,package,0
+GEN-259,blog,2026-04,generated,"Торговая сеть принимает оплату только на счета партнёрского банка, расчёты перенесены.",left,credit_counterparty,no,none,0
+GEN-260,blog,2026-04,generated,"Комиссия удивила, разбираюсь с поддержкой.",unknown,price_fee,yes,package,0
+GEN-261,review,2026-04,generated,"Плата за счёт выросла, а я работаю один. Сменил банк.",left,price_fixed,yes,lower_tariff,0
+GEN-262,chat,2026-04,generated,"Открыли счёт у конкурента под кредит, но кредит пока не одобрен.",unknown,credit_counterparty,no,none,0
+GEN-263,forum,2026-04,generated,"Операций почти нет, а тариф рассчитан на активный бизнес. Закрыл счёт и открыл простой в Банке Б.",left,price_fixed,yes,lower_tariff,0
+GEN-264,forum,2026-05,generated,"Подумываю сменить банк, комиссии надоели.",unknown,price_fee,yes,package,0
+GEN-265,blog,2026-05,generated,"Отзыв смешанный: что-то нравится, что-то нет.",unknown,unknown,na,none,0
+GEN-266,blog,2026-05,generated,"Банк Б звонит и предлагает условия лучше, размышляю.",unknown,unknown,na,none,0
+GEN-267,forum,2026-05,generated,"Может быть, закрою счёт, если комиссии не снизят.",unknown,price_fee,yes,package,0
+GEN-268,chat,2026-05,generated,"Мне хватает пяти платежей в месяц, а платить заставляют как за тридцать. Счёт в другом банке теперь.",left,price_fixed,yes,lower_tariff,0
+GEN-269,chat,2026-05,generated,"Брал бы кредит у них, но не дали, а там дали, и заодно там дешевле платёжки. Перевёл оборот.",left,credit_counterparty,no,none,0
+GEN-270,blog,2026-05,generated,"Открыли счёт для новой фирмы в другом банке, старая фирма осталась здесь.",unknown,unknown,na,none,0
+GEN-271,review,2026-06,generated,"Цены нормальные, но сервис ужасный: две недели на изменение реквизитов. Закрылся.",left,service,no,none,0
+GEN-272,blog,2026-06,generated,"Нам начали брать деньги за входящие валютные платежи, поэтому закрыли счёт и уехали.",left,price_fee,yes,package,0
+GEN-273,blog,2026-06,generated,"Магазин закрылся, снялся с учёта как ИП, поэтому счёт закрыл.",left,forced,no,none,0
+GEN-274,blog,2026-06,generated,"Год терпел комиссии на переводы, в декабре посчитал итог и закрыл счёт.",left,price_fee,yes,package,0
+GEN-275,forum,2026-06,generated,"Открыл резервный счёт в другом банке, но основной остаётся здесь.",stayed,unknown,na,none,0
+GEN-276,forum,2026-06,generated,"Ограничения по счёту не снимали два месяца, потом банк предложил закрыться. Закрыл.",left,forced,no,none,0
+GEN-277,blog,2026-06,generated,"Боюсь блокировки, поэтому перевёл деньги в другой банк.",left,other,no,none,1

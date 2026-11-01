@@ -1,0 +1,277 @@
+001 L frc n n
+002 L fix y l
+003 U unk a n
+004 U unk a n
+005 L frc n n
+006 L frc n n
+007 L crd n n
+008 S unk a n h
+009 L unk a n h
+010 L svc n n
+011 L crd n n
+012 L svc n n
+013 L frc n n
+014 L fee y p
+015 L fix y y
+016 L fee y p
+017 L fee y p
+018 L fix y l
+019 L svc n n
+020 U unk a n
+021 L fix y l
+022 U unk a n
+023 L svc n n
+024 L crd n n
+025 L fee n n h
+026 L unk a n
+027 L fee y p
+028 L fee y p
+029 L frc n n
+030 L fee y p
+031 L crd n n
+032 L crd n n h
+033 L frc n n
+034 L fee y p
+035 L fee n n
+036 U fix y l
+037 U frc n n h
+038 L crd n n
+039 L frc n n
+040 L fix y l
+041 L fee y p
+042 S unk a n
+043 L svc n n
+044 L oth n n
+045 L svc n n
+046 L fee y p
+047 S frc n n
+048 L crd n n
+049 L svc n n
+050 L unk a n h
+051 L crd n n
+052 L svc n n
+053 L svc n n h
+054 S fix y l h
+055 L unk a n
+056 L fee n n h
+057 L frc n n
+058 S fix y l
+059 L svc n n
+060 L fix y l h
+061 L fee n n h
+062 L crd n n
+063 L crd n n
+064 L crd n n
+065 U crd n n
+066 U oth n n
+067 L oth n n
+068 L frc n n
+069 L unk a n
+070 S fee y p h
+071 L svc n n
+072 L crd n n
+073 L frc n n
+074 L fee y p
+075 L svc n n
+076 U svc n n
+077 L frc n n
+078 L crd n n h
+079 L frc n n
+080 U frc n n h
+081 L frc n n
+082 L fix y l
+083 L oth n n
+084 L frc n n
+085 U unk a n
+086 U frc n n
+087 U unk a n
+088 S fix y y
+089 L oth n n
+090 L svc n n
+091 L fix y l
+092 L fee y p
+093 S fee y p
+094 U fee y p
+095 L svc n n
+096 L fee n n
+097 L fix y l
+098 L fix y l
+099 L fee y p
+100 L fix y l h
+101 S unk a n h
+102 L oth n n
+103 L unk a n h
+104 L fix y l
+105 U fix y l h
+106 L fee y p
+107 L frc n n
+108 L svc n n
+109 S fee y p
+110 L fix n n
+111 L frc n n
+112 L unk a n
+113 L fix y l
+114 L crd n n
+115 L crd n n
+116 U unk a n
+117 S fee y p
+118 L svc n n
+119 L fix y l
+120 L fee y p
+121 L frc n n
+122 L fee y p
+123 L unk a n h
+124 L oth n n h
+125 L frc n n
+126 L fix y l
+127 U oth n n
+128 L fee y p
+129 U unk a n
+130 L frc n n
+131 L frc n n
+132 L oth n n
+133 U unk a n
+134 L oth n n h
+135 S unk a n
+136 L fix y l h
+137 L frc n n
+138 L fee y p
+139 L oth n n
+140 L frc n n h
+141 L frc n n
+142 L oth n n
+143 S fix y l
+144 L crd n n
+145 L crd n n
+146 L fix y l h
+147 L fee y p
+148 L svc n n h
+149 S fix y l
+150 L fix y l
+151 L svc n n h
+152 L crd n n
+153 L fix y l
+154 L fix y l h
+155 L unk a n
+156 L fix y y
+157 L svc n n
+158 L crd n n
+159 L frc n n
+160 S unk a n
+161 U crd n n
+162 L fix y l
+163 S fix y y
+164 S fix y l
+165 L frc n n
+166 L fee y p
+167 S fee y p
+168 L fee y p
+169 U unk a n
+170 L svc n n
+171 L fee y p
+172 L crd n n
+173 L oth n n h
+174 S fix y l
+175 L fee y p
+176 L crd n n
+177 L fix y l
+178 L svc n n
+179 L oth n n h
+180 L crd n n
+181 L fix y l
+182 L unk a n h
+183 L oth n n
+184 L oth n n
+185 L fix y l h
+186 U unk a n
+187 U unk a n
+188 S unk a n
+189 L fee y p
+190 S fix y y
+191 L frc n n
+192 L fix y l
+193 L frc n n
+194 S unk a n
+195 U oth n n
+196 L fee y p
+197 L svc n n
+198 L svc n n
+199 L svc n n
+200 L frc n n
+201 L svc n n
+202 L svc n n
+203 L fee y p
+204 U oth n n
+205 L oth n n
+206 U fix y l
+207 L fix y l
+208 L frc n n
+209 L fee y p
+210 S fee y p
+211 U unk a n
+212 S unk a n
+213 L oth n n
+214 L crd n n
+215 S fee y p
+216 L fix y y
+217 L fix y l
+218 L fee y p h
+219 L svc n n
+220 L frc n n
+221 L crd n n
+222 U unk a n
+223 L oth n n h
+224 L oth n n
+225 L fix y y
+226 L svc n n
+227 L fee y p
+228 L unk a n h
+229 L fix y l
+230 U unk a n
+231 L oth n n h
+232 U fix y l h
+233 S svc n n
+234 L svc n n
+235 L svc n n
+236 L unk a n h
+237 L crd n n
+238 U svc n n h
+239 L fix n n
+240 L frc n n
+241 L fix y l
+242 L svc n n
+243 L frc n n
+244 S fix y l
+245 S unk a n
+246 L unk a n
+247 S unk a n
+248 L fee y p
+249 L unk a n
+250 L frc n n
+251 L svc n n
+252 L svc n n
+253 L fee y p
+254 L frc n n
+255 L oth n n
+256 S fee y p
+257 L crd n n
+258 L fee y p
+259 L crd n n
+260 U fee y p
+261 L fix y l
+262 U crd n n
+263 L fix y l
+264 U fee y p
+265 U unk a n
+266 U unk a n
+267 U fee y p
+268 L fix y l
+269 L crd n n
+270 U unk a n
+271 L svc n n
+272 L fee y p
+273 L frc n n
+274 L fee y p
+275 S unk a n
+276 L frc n n
+277 L oth n n h

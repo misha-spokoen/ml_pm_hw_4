@@ -1,0 +1,145 @@
+{
+  "n": 277,
+  "distribution": {
+    "outcome": {
+      "left": 208,
+      "unknown": 38,
+      "stayed": 31
+    },
+    "reason": {
+      "price_fixed": 51,
+      "price_fee": 50,
+      "unknown": 43,
+      "forced": 40,
+      "service": 37,
+      "credit_counterparty": 31,
+      "other": 25
+    },
+    "manageable": {
+      "no": 140,
+      "yes": 94,
+      "na": 43
+    },
+    "action": {
+      "none": 183,
+      "package": 45,
+      "lower_tariff": 42,
+      "annual": 7
+    }
+  },
+  "hard_share": 0.1407942238267148,
+  "agreement": {
+    "outcome": {
+      "kappa": 0.9012059369202227,
+      "agreement": 0.9577464788732394,
+      "n": 71,
+      "ci95": [
+        0.7748380354175332,
+        1.0
+      ]
+    },
+    "reason": {
+      "kappa": 0.9668997668997669,
+      "agreement": 0.971830985915493,
+      "n": 71,
+      "ci95": [
+        0.9164312617702448,
+        1.0
+      ]
+    },
+    "manageable": {
+      "kappa": 0.9774531597332486,
+      "agreement": 0.9859154929577465,
+      "n": 71,
+      "ci95": [
+        0.9274726857871967,
+        1.0
+      ]
+    },
+    "action": {
+      "kappa": 0.9712434183880113,
+      "agreement": 0.9859154929577465,
+      "n": 71,
+      "ci95": [
+        0.8978398879168803,
+        1.0
+      ]
+    }
+  },
+  "agreement_hard_only": {
+    "outcome": {
+      "kappa": 0.23809523809523814,
+      "agreement": 0.75,
+      "n": 8,
+      "ci95": [
+        0.0,
+        0.4666666666666667
+      ]
+    },
+    "manageable": {
+      "kappa": 0.7894736842105263,
+      "agreement": 0.875,
+      "n": 8,
+      "ci95": [
+        0.25,
+        1.0
+      ]
+    }
+  },
+  "disagreement_count": 6,
+  "manageable_share": {
+    "left": 208,
+    "manageable": 68,
+    "unknown_reason": 14,
+    "share_all_left": 0.3269230769230769,
+    "ci95": [
+      0.26681455098079165,
+      0.3933088619843673
+    ],
+    "share_known_reason": 0.35051546391752575,
+    "ci95_known": [
+      0.2868679837781877,
+      0.4199681922333286
+    ]
+  },
+  "baseline": {
+    "holdout": {
+      "split_month": "2025-06",
+      "train": 162,
+      "test": 72,
+      "positive_test": 29,
+      "model": {
+        "precision": 0.7741935483870968,
+        "recall": 0.8275862068965517,
+        "f1": 0.8
+      },
+      "keywords": {
+        "precision": 0.7586206896551724,
+        "recall": 0.7586206896551724,
+        "f1": 0.7586206896551724
+      },
+      "f1_delta_ci95": [
+        -0.08804130897351245,
+        0.16843219461697703
+      ],
+      "precision_ci95": [
+        0.6018723994130262,
+        0.8860500840550121
+      ]
+    },
+    "cross_validation": {
+      "model": {
+        "precision": 0.8241758241758241,
+        "recall": 0.7978723404255319,
+        "f1": 0.8108108108108109
+      },
+      "keywords": {
+        "precision": 0.8048780487804879,
+        "recall": 0.7021276595744681,
+        "f1": 0.75
+      }
+    },
+    "n": 234,
+    "positive_share": 0.4017094017094017
+  }
+}

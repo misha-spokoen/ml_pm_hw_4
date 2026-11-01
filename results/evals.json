@@ -1,0 +1,70 @@
+{
+  "pass_rate": {
+    "critical": {
+      "passed": 21,
+      "total": 21,
+      "share": 1.0
+    },
+    "major": {
+      "passed": 12,
+      "total": 17,
+      "share": 0.7058823529411765
+    }
+  },
+  "failed": [
+    {
+      "id": "E18",
+      "group": "Regression C4",
+      "severity": "major",
+      "scenario": "C4.4 Разрыв recall по отраслям",
+      "expected": "≤ 5 п.п.",
+      "metric": "разрыв, п.п.; p перестановки",
+      "passed": false,
+      "observed": "5.58; p=0.14"
+    },
+    {
+      "id": "E31",
+      "group": "Value",
+      "severity": "major",
+      "scenario": "Кампания на 10% покрывает ≥ 30% оттока",
+      "expected": "Lift@10% ≥ 3,0",
+      "metric": "lift",
+      "passed": false,
+      "observed": "2.997"
+    },
+    {
+      "id": "E32",
+      "group": "Value",
+      "severity": "major",
+      "scenario": "Есть время на контакт",
+      "expected": "Медианное упреждение ≥ 30 дней",
+      "metric": "дней",
+      "passed": false,
+      "observed": "26.8"
+    },
+    {
+      "id": "E33",
+      "group": "Value",
+      "severity": "major",
+      "scenario": "Эффект окупает оффер",
+      "expected": "12-мес. uplift ≥ безубыточности",
+      "metric": "uplift / порог, п.п.",
+      "passed": false,
+      "observed": "0.91 / 20.47"
+    },
+    {
+      "id": "E34",
+      "group": "Value",
+      "severity": "major",
+      "scenario": "Метрика успеха продукта",
+      "expected": "≥ 3 ₽ на 1 ₽ бюджета",
+      "metric": "₽/₽",
+      "passed": false,
+      "observed": "0.1"
+    }
+  ],
+  "redteam_status": {
+    "Открыт": 6,
+    "Закрыт": 4
+  }
+}
